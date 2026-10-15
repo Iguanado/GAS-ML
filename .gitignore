@@ -1,0 +1,12 @@
+# Local Python environment and caches
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Downloaded datasets
+data/
+*.csv
+
+# Local credentials
+.env
+.env.*
